@@ -49,5 +49,13 @@ On Linux/Mac, use `export PORT=5001` instead of `set`.
 - You can adjust mining difficulty in `blockchain.py` (`Blockchain.difficulty`).
 - The UI is built with Bootstrap and can be customized in `templates/index.html` and `static/style.css`.
 
+
+## Screenshots
+<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/bb1ee692-530a-4750-ae93-3db5afd8aa17" />
+
+<img width="1920" height="982" alt="image" src="https://github.com/user-attachments/assets/2087b26c-1514-4c6a-90f8-4773bce10b6e" />
+
+
+
 ## License
 MIT 
